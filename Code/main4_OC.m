@@ -1,5 +1,5 @@
 clear all;close all;clc;
-
+% written by Bo Fan
 % 
 % OC:Optimal control
 nrow=216; 

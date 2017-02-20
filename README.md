@@ -1,1 +1,1 @@
-# Hidden-Markov-Decision-Process-for-activity-forecasting-2015-
+# Hidden Markov Decision Process for activity forecasting (2015)

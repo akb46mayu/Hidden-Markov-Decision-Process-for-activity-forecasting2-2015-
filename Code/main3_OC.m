@@ -1,5 +1,5 @@
 clear all;close all;clc;
-% 
+% written by Bo Fan
 % OC:Optimal control
 nrow=216; ncol=384;
 valmatmode=1; % if 1 use saved valmat V. if 0 compute a new V 

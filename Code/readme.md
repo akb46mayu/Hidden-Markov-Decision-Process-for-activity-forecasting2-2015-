@@ -1,6 +1,6 @@
 # How to run the code
 ## 1 Quick run 
-The feature folder featfolder includes all the 40 feature files.  The files can also generated from step 1.3, but it will take some time.  If it has been put into the corresponding folder, we can do the following things:
+The feature folder featfolder includes all the 40 feature files.  The files can also be generated from step 1.3, but it will take some time.  If it has been put into the corresponding folder, we can do the following things:
 ## 2 Activity forecasting for one goal
 1) Directly run main3_OC.m, and we will observe the forecasting distribution.
 This program runs quickly, because the value function map and the feature maps have been pre-computed. 
